@@ -3,20 +3,12 @@
 }
 section, nav, footer{
   background-color: rgba(255, 255, 255);
-  margin: 0px;
+
   }
 
 .my-nav{
     padding-inline: 60px;
   }
-
-/*  .caja1 img {
-  object-fit: cover;
-  max-width: 100%;
-  max-height: 100%;
-  display: block;
-  margin: 0 auto;
-} */
 
 .caja1B {
   padding-right: 90px;
@@ -92,13 +84,6 @@ section, nav, footer{
 
 .caja4B p{
   font-size: 0.7em;
-}
-
-.caja4 img {
-  max-width: 100%;
-  max-height: 100%;
-  display: block;
-  margin: 0 auto;
 }
 
 .caja5 {
