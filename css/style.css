@@ -20,7 +20,7 @@ section, nav, footer{
   overflow: auto;
 }
 
-@media screen and (max-width: 1022px) {
+@media screen and (max-width: 1040px) {
   .caja1B {
     padding-right: 50px;
   }
